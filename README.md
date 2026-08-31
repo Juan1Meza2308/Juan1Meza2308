@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Felipe 👋</h1>
 
 <p align="center">
-  Desarrollador Frontend · Ayudo a negocios locales a tener presencia web profesional<br/>
+  Desarrollador Full-Stack · Ayudo a negocios locales a tener presencia web profesional<br/>
   Estudiante de Ingeniería de Sistemas · Universidad Autónoma del Caribe
 </p>
 
