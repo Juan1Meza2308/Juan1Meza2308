@@ -28,7 +28,6 @@ I build websites for small and local businesses (bakeries, clothing stores, stud
 | Project | Description |
 |---|---|
 | [**vitrina**](https://github.com/Juan1Meza2308/vitrina) | Open-source web app demo recorder: automatic zoom on clicks, cinematic background, and voiceover. An alternative to Screen Studio for macOS and Windows. |
-|---|---|
 | [**OG Card Studio**](https://github.com/Juan1Meza2308/og-card-studio) | Generate beautiful, customizable social share cards on the fly for your blog, e-commerce, or app in milliseconds. One API URL. Zero infrastructure. |
 ---
 
